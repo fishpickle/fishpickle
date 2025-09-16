@@ -82,6 +82,16 @@ My focus: making digital experiences **intuitive, accessible, and delightful** w
 
 ---
 
+## 📊 GitHub Stats  
+
+![Jacques's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacquesbromberg&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacquesbromberg&layout=compact&theme=tokyonight)  
+
+![Profile Views](https://komarev.com/ghpvc/?username=jacquesbromberg&color=blue&style=flat-square)  
+
+---
+
 ## 💡 Leadership Impact  
 
 - At **Imagine Learning (EdTech)**: Led UX research improving usability and accessibility for 20K+ teachers & students across K–12.  
