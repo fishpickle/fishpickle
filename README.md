@@ -53,12 +53,9 @@ My focus: making digital experiences **intuitive, accessible, and delightful** w
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-336791?logo=postgresql&logoColor=white)
 
-### Data & AI  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+### Data Science & Tools
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=chainlink&logoColor=white)
 ![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?logo=mixpanel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 ![Pendo](https://img.shields.io/badge/Pendo-EF3F56?logo=pendo&logoColor=white)
