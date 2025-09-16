@@ -84,11 +84,11 @@ My focus: making digital experiences **intuitive, accessible, and delightful** w
 
 ## 📊 GitHub Stats  
 
-![Jacques's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacquesbromberg&show_icons=true&theme=tokyonight)  
+![Jacques's GitHub stats](https://github-readme-stats.vercel.app/api?username=fishpickle&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacquesbromberg&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fishpickle&layout=compact&theme=tokyonight)  
 
-![Profile Views](https://komarev.com/ghpvc/?username=jacquesbromberg&color=blue&style=flat-square)  
+![Profile Views](https://komarev.com/ghpvc/?username=fishpickle&color=blue&style=flat-square)  
 
 ---
 
