@@ -78,7 +78,7 @@ My focus: making digital experiences **intuitive, accessible, and delightful** w
   AI-powered single-player debate game. Backend with **FastAPI**, frontend with **Expo Router**, featuring daily topics and stylized AI personas.  
 
 - **[Snoob](https://github.com/fishpickle/snoob)** 🎮  
-  A playful Snood-inspired puzzle game built in React.  
+  A loving tribute to the classic 90's puzzle game Snood, built in React.  
 
 ---
 
@@ -94,8 +94,6 @@ My focus: making digital experiences **intuitive, accessible, and delightful** w
 
 🔗 [Website](https://jacquesbromberg.com)  
 💼 [LinkedIn](https://linkedin.com/in/jacquesbromberg)  
-💡 [BlueSky](https://bsky.app/profile/jacquesstar.bsky.social)  
-📸 [Nimbus Atelier](https://fishpickle.com)  
 
 ---
 ✨ _"I sneak empathy into the spec so the finished product feels like it knows you."_  
