@@ -111,4 +111,4 @@ My focus: making digital experiences **intuitive, accessible, and delightful** w
 💼 [LinkedIn](https://linkedin.com/in/jacquesbromberg)  
 
 ---
-✨ _"I sneak empathy into the spec so the finished product feels like it knows you."_  
+✨ _"Products that feel like they know you."_  
