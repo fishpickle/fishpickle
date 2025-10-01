@@ -71,14 +71,11 @@ My focus: making digital experiences **intuitive, accessible, and delightful** w
 
 ## 📌 Projects & Highlights  
 
-- **[Nimbus](https://github.com/fishpickle/nimbus)** ☁️  
-  Minimalist photo journaling app. Built with **Expo + Firebase**, featuring location-based capture, vibes tagging, and TestFlight release.
+- **[Nimbus](https://shareyourskies.com)** ☁️  
+  Minimalist photo journaling app. Built with **Expo + Firebase**, featuring location-based capture, vibes tagging, and TestFlight release. Currently in closed beta on iOS.
 
-- **[Debatable](https://github.com/fishpickle/debatable)** ⚖️  
+- **[Debatable](https://debatable.fun)** ⚖️  
   AI-powered single-player debate game. Backend with **FastAPI**, frontend with **Expo Router**, featuring daily topics and stylized AI personas.  
-
-- **[Snoob](https://github.com/fishpickle/snoob)** 🎮  
-  A loving tribute to the classic 90's puzzle game Snood, built in React.  
 
 ---
 
