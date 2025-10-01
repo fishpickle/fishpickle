@@ -41,6 +41,14 @@ My focus: making digital experiences **intuitive, accessible, and delightful** w
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white)
 
+### AI/ML
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![FastAI](https://img.shields.io/badge/FastAI-223f5b?logo=fastapi&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black)
+![Gradio](https://img.shields.io/badge/Gradio-FF6F20?logo=gradio&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+
 ### Frontend & Mobile  
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000000?logo=expo&logoColor=white)
