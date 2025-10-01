@@ -1,6 +1,6 @@
 # Hi 👋, I'm Jacques Bromberg  
 
-🎯 **Senior UX Researcher & Product Strategist** | Builder of playful, purposeful apps like **Nimbus ☁️** (cloud journaling) and **Debatable ⚖️** (AI-powered debate game).  
+🎯 **Data-driven Product Leader** | Builder of playful, purposeful apps like **Nimbus ☁️** (cloud journaling) and **Debatable ⚖️** (AI-powered debate game).  
 📍 Pittsburgh-based | Exploring the intersection of **UX, AI/ML infrastructure, and product strategy**.  
 
 ---
