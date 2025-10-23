@@ -7,7 +7,7 @@
 
 ## Vision & Leadership Philosophy  
 
-I believe the most transformative products emerge at the intersection of **human-centered design** and **cutting-edge technology**.  
+I believe the most transformative products emerge at the intersection of **human-centered design** and **data collection**.  
 My focus: using data to make digital experiences **intuitive, accessible, and delightful** while enabling growth at scale.  
 
 **My Approach**  
