@@ -1,32 +1,33 @@
-# Hi 👋, I'm Jacques Bromberg  
+# Whimsical, by design
 
-🎯 **Data-driven Product Leader** | Builder of playful, purposeful apps like **Nimbus ☁️** (cloud journaling) and **Debatable ⚖️** (AI-powered debate game).  
-📍 Pittsburgh-based | Exploring the intersection of **UX, AI/ML infrastructure, and product strategy**.  
+🎯 **Data-first Product Leader** | Builder of playful, purposeful apps like **Nimbus** (photo journaling), **Auly** (AI-powered teaching and learning platform), and **Debatable ⚖️** (AI-powered debate game).  
+📍 Pittsburgh-based | Exploring the intersection of **Data Science, User Experience, AI/ML infrastructure, and product strategy**.  
 
 ---
 
-## 🌟 Vision & Leadership Philosophy  
+## Vision & Leadership Philosophy  
 
 I believe the most transformative products emerge at the intersection of **human-centered design** and **cutting-edge technology**.  
-My focus: making digital experiences **intuitive, accessible, and delightful** while enabling growth at scale.  
+My focus: using data to make digital experiences **intuitive, accessible, and delightful** while enabling growth at scale.  
 
 **My Approach**  
-- 🔍 Human-Centered Research → uncover insights that drive product clarity and impact  
-- ⚡ Strategic Product Thinking → define MVPs, optimize funnels, and drive retention  
-- 🤝 Cross-Functional Leadership → bridge researchers, designers, engineers, and PMs  
-- 🚀 Emerging Tech Integration → responsibly leverage AI/ML to enhance human potential  
+- Data-first Mindset → ask questions and design experiments that uncover hidden patterns
+- Human-Centered Research → uncover insights that drive product clarity and impact  
+- Strategic Product Thinking → define MVPs, optimize funnels, and drive retention  
+- Cross-Functional Leadership → bridge researchers, designers, engineers, and PMs  
+- Emerging Tech Integration → responsibly leverage AI/ML to enhance human potential  
 
 ---
 
-## 🎯 Strategic Focus Areas  
+## Strategic Focus Areas  
 - **Trust & Accessibility** → Designing for inclusivity and human-AI collaboration  
 - **Growth & Retention** → Creating feedback loops that drive daily engagement  
 - **Next-Gen AI Experiences** → Prototyping agent interactions, LLM-powered apps, and playful UIs  
-- **Product Strategy** → Translating research into strategic roadmaps and MVP launches  
+- **Product Strategy** → Translating data into strategic roadmaps and MVP launches  
 
 ---
 
-## 🛠️ Technical Ecosystem  
+## Technical Ecosystem  
 
 ### GenAI & Emerging Tech
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
