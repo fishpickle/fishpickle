@@ -1,6 +1,6 @@
 # Whimsical, by design
 
-🎯 **Data-first Product Leader** | Builder of playful, purposeful apps like **Nimbus** (photo journaling), **Auly** (AI-powered teaching and learning platform), and **Debatable ⚖️** (AI-powered debate game).  
+🎯 **Data-first Product Leader** | Builder of playful, purposeful apps like **Nimbus** (photo journaling), **Auly** (AI-powered teaching and learning platform), and **Debatable** (AI-powered debate game).  
 📍 Pittsburgh-based | Exploring the intersection of **Data Science, User Experience, AI/ML infrastructure, and product strategy**.  
 
 ---
@@ -80,10 +80,13 @@ My focus: using data to make digital experiences **intuitive, accessible, and de
 
 ## 📌 Projects & Highlights  
 
-- **[Nimbus](https://shareyourskies.com)** ☁️  
+- **[Nimbus](https://shareyourskies.com)**
   Minimalist photo journaling app. Built with **Expo + Firebase**, featuring location-based capture, vibes tagging, and TestFlight release. Currently in closed beta on iOS.
 
-- **[Debatable](https://debatable.fun)** ⚖️  
+- **[Auly](https://auly.io)**
+  The easiest way to turn teaching and learning into verifiable proof of growth, Auly helps educators organize their work, reflect on their growth, and generate verified evidence of their teaching impact. Currently in public beta.
+
+- **[Debatable](https://debatable.fun)**  
   AI-powered single-player debate game. Backend with **FastAPI**, frontend with **Expo Router**, featuring daily topics and stylized AI personas.  
 
 ---
@@ -101,7 +104,7 @@ My focus: using data to make digital experiences **intuitive, accessible, and de
 ## 💡 Leadership Impact  
 
 - At **Imagine Learning (EdTech)**: Led UX research improving usability and accessibility for 20K+ teachers & students across K–12.  
-- As a **Side Project Builder**: Designed and launched MVPs (Nimbus, Debatable) from zero → TestFlight-ready releases.  
+- As a **Side Project Builder**: Designed and launched MVPs (Nimbus, Auly, Debatable) from zero → launch.  
 - As a **Product Partner**: Guided cross-functional teams with insights that influenced product strategy, growth loops, and retention metrics.  
 
 ---
