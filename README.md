@@ -87,25 +87,8 @@ My focus: using data to make digital experiences **intuitive, accessible, and de
   The easiest way to turn teaching and learning into verifiable proof of growth, Auly helps educators organize their work, reflect on their growth, and generate verified evidence of their teaching impact. Currently in public beta.
 
 - **[Debatable](https://debatable.fun)**  
-  AI-powered single-player debate game. Backend with **FastAPI**, frontend with **Expo Router**, featuring daily topics and stylized AI personas.  
-
----
-
-## 📊 GitHub Stats  
-
-![Jacques's GitHub stats](https://github-readme-stats.vercel.app/api?username=fishpickle&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fishpickle&layout=compact&theme=tokyonight)  
-
-![Profile Views](https://komarev.com/ghpvc/?username=fishpickle&color=blue&style=flat-square)  
-
----
-
-## 💡 Leadership Impact  
-
-- At **Imagine Learning (EdTech)**: Led UX research improving usability and accessibility for 20K+ teachers & students across K–12.  
-- As a **Side Project Builder**: Designed and launched MVPs (Nimbus, Auly, Debatable) from zero → launch.  
-- As a **Product Partner**: Guided cross-functional teams with insights that influenced product strategy, growth loops, and retention metrics.  
+  AI-powered single-player debate game. Backend with **FastAPI**, frontend with **Expo Router**, featuring daily topics and stylized AI personas.
+  
 
 ---
 
