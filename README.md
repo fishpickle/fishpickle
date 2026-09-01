@@ -88,7 +88,10 @@ My focus: using data to make digital experiences **intuitive, accessible, and de
 
 - **[Debatable](https://debatable.fun)**  
   AI-powered single-player debate game. Backend with **FastAPI**, frontend with **Expo Router**, featuring daily topics and stylized AI personas.
-  
+
+- **[Noshtradamus]([https://debatable.fun](https://chatgpt.com/g/g-68c89ba25ba48191b849fd893ff69672-noshtradamus))**  
+  A mischievous fortune-teller who turns photos of your leftovers into whimsical, bite-sized visions of the future.
+
 
 ---
 
